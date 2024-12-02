@@ -1,0 +1,2433 @@
+fileFormatVersion: 2
+guid: 804adfeffbed24175a5ad14ef3ab7408
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nijiniji_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1610
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4af719199e034459879ac8a408c51c5
+      internalID: -2012741919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_1
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1610
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbd26da2546e4001881ad46d67b4dda
+      internalID: 819761623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_2
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 1610
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ba900c7c6fc468b92c2c29ab4b1c44
+      internalID: -1125030659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_3
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 1610
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c799777b2df40d9b20825982ef9266
+      internalID: -1970308378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_4
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 1610
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a1f7a9e3eb44d398416932de698012
+      internalID: -1694754629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_5
+      rect:
+        serializedVersion: 2
+        x: 5160
+        y: 1610
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966adc2bb8b9049448deed8f11bfd18f
+      internalID: -1931561909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_6
+      rect:
+        serializedVersion: 2
+        x: 6192
+        y: 1610
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc859b24aa30241d59d388ce1661dfde
+      internalID: -1706962463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1495
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9eea9e26df414a048623db5df3461e3
+      internalID: -1502141427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_8
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1495
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21dfb21d792a45efbfb3a45b19f67cc
+      internalID: 564532618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_9
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 1495
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4eba3d7bb884ca68cb6449f153cc2d
+      internalID: 1916534685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_10
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 1495
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1545180f50f1c41e8ba5adcdd0ce3592
+      internalID: 430179085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_11
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 1495
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b911908fd3c41019b6f23c7988c677
+      internalID: 658771338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_12
+      rect:
+        serializedVersion: 2
+        x: 5160
+        y: 1495
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377dc8aa1633940919cbfd57fdc0bb45
+      internalID: -871967428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_13
+      rect:
+        serializedVersion: 2
+        x: 6192
+        y: 1495
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fec84e80836e46e399a8829fdd57c2d
+      internalID: 467726173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1380
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a9ad588c0284c67a05dbb7592351de
+      internalID: -1846325367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_15
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1380
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bab97d5c951464aa1ca89394cd7601
+      internalID: 744300640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_16
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 1380
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee492b6cecd94547a09181144304e50
+      internalID: -1788343851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_17
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 1380
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf21da1ea642e4b239c040920d1db4cc
+      internalID: -1002734198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_18
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 1380
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca424dc7e0d84d34984b5523b6d561d
+      internalID: -1892892735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_19
+      rect:
+        serializedVersion: 2
+        x: 5160
+        y: 1380
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75e26d34ea22400683bd18365e055c1
+      internalID: -2058790753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_20
+      rect:
+        serializedVersion: 2
+        x: 6192
+        y: 1380
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12dde553f59e24748b59bed30f792781
+      internalID: 1672598330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1265
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62904c687699a48e88c8272e35bdb098
+      internalID: 108549386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_22
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1265
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc530c73697424f18b35ba566bf0018a
+      internalID: 1468291747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_23
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 1265
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76e4d4a0158247469a92b432a80d254
+      internalID: -522753709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_24
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 1265
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e207a20ac7cf4a55a3a752d07e18495
+      internalID: 1761704108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_25
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 1265
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9f32cf3adfa4f82b9a98ba8dc618a1
+      internalID: -1060094304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_26
+      rect:
+        serializedVersion: 2
+        x: 5160
+        y: 1265
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabb3aba4b4834862b6f795221055546
+      internalID: 1775528192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_27
+      rect:
+        serializedVersion: 2
+        x: 6192
+        y: 1265
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20070426f52af45a3962dfa3daba826e
+      internalID: -89238585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1150
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb2767170f784f899879dc41df57837
+      internalID: -1982674528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_29
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1150
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665fa077646b646029df7a0e2ebcbbe4
+      internalID: 1864325872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_30
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 1150
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff6b82476c2d43609dff1489d035499
+      internalID: 1566082568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_31
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 1150
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8efc82ec6ec47c9b0482cecbf79c37
+      internalID: -745623126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_32
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 1150
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044e0d6cb76c24a24b6fb41dfff81736
+      internalID: -1511612624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_33
+      rect:
+        serializedVersion: 2
+        x: 5160
+        y: 1150
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f532943a335c54ec383e51888294e96c
+      internalID: -1946205009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_34
+      rect:
+        serializedVersion: 2
+        x: 6192
+        y: 1150
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3c371fdcf0e4c4284f0e2168802021
+      internalID: 31574873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1035
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec1ec9727a5641368bd66cd61c79794
+      internalID: 420835819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_36
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1035
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1fe57299d1e40a2a1a3ab143ae5094
+      internalID: 156438225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_37
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 1035
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fdf3e9ef0a74c3e8408fde6e644e2a
+      internalID: 1184135079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_38
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 1035
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0e166aabc114f4197c0200ab6952be
+      internalID: -447484306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_39
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 1035
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a42cc325b944f5098aeb1ff1c64605
+      internalID: -1803336413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_40
+      rect:
+        serializedVersion: 2
+        x: 5160
+        y: 1035
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a8d6bd1d4d5457691a54c28bf92d08
+      internalID: -166522641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_41
+      rect:
+        serializedVersion: 2
+        x: 6192
+        y: 1035
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d77e92e5ca541de975c9e4aea3f49a
+      internalID: -918117866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 920
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7737d0fa22a834581961edf96ecb250c
+      internalID: -1437018798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_43
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 920
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c096fa71a29a4d738a9acc5ac90508c
+      internalID: 1204474026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_44
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 920
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f595d9fb5474c85a2113a3b354ae2c
+      internalID: 735558969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_45
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 920
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36cccc4564fb4a5487c0653379c8899
+      internalID: 1310405648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_46
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 920
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d96ecb8779b4e229dca1fd594e6aa5
+      internalID: 936258134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_47
+      rect:
+        serializedVersion: 2
+        x: 5160
+        y: 920
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa35500c6ada4bfa9742daa08270315
+      internalID: 186547973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_48
+      rect:
+        serializedVersion: 2
+        x: 6192
+        y: 920
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef5376806aff47f2a5d67337cd8b7d4
+      internalID: -840762680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 805
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76111bb574ac147c9b76e9c5c9d35c26
+      internalID: -927284755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_50
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 805
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933d9ab54fb4e463b8b8ad33b23bf263
+      internalID: 1182559093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_51
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 805
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4371914320b674cf89c6e3eec5203fff
+      internalID: -1647700958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_52
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 805
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658c2766fea984cd9bd4e9d85e479a8b
+      internalID: -1437562095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_53
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 805
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da6108b794ff4eb99e34ce56285f5db
+      internalID: -2066350508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_54
+      rect:
+        serializedVersion: 2
+        x: 5160
+        y: 805
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1031441e891c47bc8980b6d857a810f
+      internalID: -1248044795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_55
+      rect:
+        serializedVersion: 2
+        x: 6192
+        y: 805
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d729335f152924e348a7d2749402f9c4
+      internalID: -1085296587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 690
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534a792e4e6144848b90726845864b8d
+      internalID: -1763121151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_57
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 690
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f394042f28e1f4f26bcb7d87543329b5
+      internalID: 216400906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_58
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 690
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e34e77b4710147c2aca8d96210fe7b9
+      internalID: 1385601250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_59
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 690
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090f83914ae5c450b9754894eb6675de
+      internalID: -954487347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_60
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 690
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2edd145e7cd4453f8561fd9a9ec9648
+      internalID: -1778866704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_61
+      rect:
+        serializedVersion: 2
+        x: 5160
+        y: 690
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95efca64171b04b358358c33f0881723
+      internalID: -84228766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_62
+      rect:
+        serializedVersion: 2
+        x: 6192
+        y: 690
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9185a4be9cca4f1a816822703e19a78
+      internalID: -1932551056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 575
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd627ea966063485c8cf6c909527216c
+      internalID: 1446101514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_64
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 575
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74cac53100628478cb28d0b8a97208c1
+      internalID: 1456902941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_65
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 575
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b9d016e8d7943e6954a4640502e4bb
+      internalID: 1036921887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_66
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 575
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16427ba6b72e4af2bd892339bcf82f5
+      internalID: 1394830850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_67
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 575
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe163c511d259495990200f3d42b0e6f
+      internalID: 97163258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_68
+      rect:
+        serializedVersion: 2
+        x: 5160
+        y: 575
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f9458ff699e4e5385e9b39b8452b5f
+      internalID: 1814109332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_69
+      rect:
+        serializedVersion: 2
+        x: 6192
+        y: 575
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d52c7c54f45440886b4dede2a00d7a
+      internalID: 1798818213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 460
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386b76db08f934527883963ccbaad934
+      internalID: -142683408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_71
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 460
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088b397ed63df48eab6fb29d0cac0181
+      internalID: -1781469225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_72
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 460
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cb87a4fb6224bd6b3a8f240591be4c
+      internalID: 1141818457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_73
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 460
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508bbb3e65f594ec194b83276e887299
+      internalID: -1816105324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_74
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 460
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bcbb0b2ddab1461b9820b3d5ec70156
+      internalID: 2127241935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_75
+      rect:
+        serializedVersion: 2
+        x: 5160
+        y: 460
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603f499c29b2446a5bf6139596212a8a
+      internalID: -1091293652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_76
+      rect:
+        serializedVersion: 2
+        x: 6192
+        y: 460
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2a7125dc4094392877e5a1d834801d
+      internalID: -1391875921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 345
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5aea8a938a5a4eb4ad199858c01dc57
+      internalID: -813682080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_78
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 345
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f7994fe75f2444c8aa72b69c60cbec
+      internalID: 555276904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_79
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 345
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c66ed6f5afd48edad4480f58466d43
+      internalID: -633556120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_80
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 345
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c292c28f5a5de4b068cc9b80e8dad13e
+      internalID: -623344919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_81
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 345
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4bdd732a4d84504a8285b3f9082593
+      internalID: 208300151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_82
+      rect:
+        serializedVersion: 2
+        x: 5160
+        y: 345
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed497fe1ace4445b487035dbf64896aa
+      internalID: -210969641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_83
+      rect:
+        serializedVersion: 2
+        x: 6192
+        y: 345
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533438da573b146fc8f529ff319e8df5
+      internalID: 104910219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 230
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1f11f2f5b4646b79f168d7083c789f
+      internalID: -1756892771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_85
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 230
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb3aad00936d4a809f4fa9da65e5c7d
+      internalID: -1683413373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_86
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 230
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05bcda10564040fab8d6775b64f5bdb
+      internalID: 447953026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_87
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 230
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90066b50cf0b64bee98c3cb38b4f636e
+      internalID: -1317982377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_88
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 230
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1779e6e97bd7647edba1e3e93a937cca
+      internalID: 1255788176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_89
+      rect:
+        serializedVersion: 2
+        x: 5160
+        y: 230
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad87fefa6af44db084c764bde021ce0
+      internalID: 360451167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_90
+      rect:
+        serializedVersion: 2
+        x: 6192
+        y: 230
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e251f0678fce488588901f2d3ebe9c6
+      internalID: -1657889336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 115
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a15cb7e312ee4d5bbe8643b4d7b2c8a
+      internalID: -1378611838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_92
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 115
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244e3744bbe4543b7b86b3173659ebbb
+      internalID: 2073347825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_93
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 115
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d47387882ea42bb864d322e5918c85
+      internalID: 2024988161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_94
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 115
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76bd7550ac0c41caa80d112cca19e14
+      internalID: -1534090606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_95
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 115
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db398c3760334a23a80e31db7ca5b46
+      internalID: -958215925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_96
+      rect:
+        serializedVersion: 2
+        x: 5160
+        y: 115
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85873ea6a52d34b8a8edabc0ffae8cd4
+      internalID: 111739023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_97
+      rect:
+        serializedVersion: 2
+        x: 6192
+        y: 115
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72649e1db52b444489c15d37521498fb
+      internalID: 1498638077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a55edfbcf5a4588953c56a7f6d877b
+      internalID: 372237989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_99
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 0
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4e7f828276944a4b06faefec99b826
+      internalID: 1329685507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_100
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 0
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942ee2335ba324f11ad1e91c4badb157
+      internalID: -164772967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_101
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 0
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15d80c87029b40f2bb78becc34302ff
+      internalID: -1656270850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_102
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 0
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a8cea045bb5466c84921ab24b4fec4
+      internalID: -8204961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_103
+      rect:
+        serializedVersion: 2
+        x: 5160
+        y: 0
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041c5b228abfe484e99fba09eb862700
+      internalID: -785555232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nijiniji_104
+      rect:
+        serializedVersion: 2
+        x: 6192
+        y: 0
+        width: 1032
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd38b6b131a5f4d5d999e452392bf4f9
+      internalID: -1541694818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 82925406f56d74781883902cd8765db3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      nijiniji_0: -2012741919
+      nijiniji_1: 819761623
+      nijiniji_10: 430179085
+      nijiniji_100: -164772967
+      nijiniji_101: -1656270850
+      nijiniji_102: -8204961
+      nijiniji_103: -785555232
+      nijiniji_104: -1541694818
+      nijiniji_11: 658771338
+      nijiniji_12: -871967428
+      nijiniji_13: 467726173
+      nijiniji_14: -1846325367
+      nijiniji_15: 744300640
+      nijiniji_16: -1788343851
+      nijiniji_17: -1002734198
+      nijiniji_18: -1892892735
+      nijiniji_19: -2058790753
+      nijiniji_2: -1125030659
+      nijiniji_20: 1672598330
+      nijiniji_21: 108549386
+      nijiniji_22: 1468291747
+      nijiniji_23: -522753709
+      nijiniji_24: 1761704108
+      nijiniji_25: -1060094304
+      nijiniji_26: 1775528192
+      nijiniji_27: -89238585
+      nijiniji_28: -1982674528
+      nijiniji_29: 1864325872
+      nijiniji_3: -1970308378
+      nijiniji_30: 1566082568
+      nijiniji_31: -745623126
+      nijiniji_32: -1511612624
+      nijiniji_33: -1946205009
+      nijiniji_34: 31574873
+      nijiniji_35: 420835819
+      nijiniji_36: 156438225
+      nijiniji_37: 1184135079
+      nijiniji_38: -447484306
+      nijiniji_39: -1803336413
+      nijiniji_4: -1694754629
+      nijiniji_40: -166522641
+      nijiniji_41: -918117866
+      nijiniji_42: -1437018798
+      nijiniji_43: 1204474026
+      nijiniji_44: 735558969
+      nijiniji_45: 1310405648
+      nijiniji_46: 936258134
+      nijiniji_47: 186547973
+      nijiniji_48: -840762680
+      nijiniji_49: -927284755
+      nijiniji_5: -1931561909
+      nijiniji_50: 1182559093
+      nijiniji_51: -1647700958
+      nijiniji_52: -1437562095
+      nijiniji_53: -2066350508
+      nijiniji_54: -1248044795
+      nijiniji_55: -1085296587
+      nijiniji_56: -1763121151
+      nijiniji_57: 216400906
+      nijiniji_58: 1385601250
+      nijiniji_59: -954487347
+      nijiniji_6: -1706962463
+      nijiniji_60: -1778866704
+      nijiniji_61: -84228766
+      nijiniji_62: -1932551056
+      nijiniji_63: 1446101514
+      nijiniji_64: 1456902941
+      nijiniji_65: 1036921887
+      nijiniji_66: 1394830850
+      nijiniji_67: 97163258
+      nijiniji_68: 1814109332
+      nijiniji_69: 1798818213
+      nijiniji_7: -1502141427
+      nijiniji_70: -142683408
+      nijiniji_71: -1781469225
+      nijiniji_72: 1141818457
+      nijiniji_73: -1816105324
+      nijiniji_74: 2127241935
+      nijiniji_75: -1091293652
+      nijiniji_76: -1391875921
+      nijiniji_77: -813682080
+      nijiniji_78: 555276904
+      nijiniji_79: -633556120
+      nijiniji_8: 564532618
+      nijiniji_80: -623344919
+      nijiniji_81: 208300151
+      nijiniji_82: -210969641
+      nijiniji_83: 104910219
+      nijiniji_84: -1756892771
+      nijiniji_85: -1683413373
+      nijiniji_86: 447953026
+      nijiniji_87: -1317982377
+      nijiniji_88: 1255788176
+      nijiniji_89: 360451167
+      nijiniji_9: 1916534685
+      nijiniji_90: -1657889336
+      nijiniji_91: -1378611838
+      nijiniji_92: 2073347825
+      nijiniji_93: 2024988161
+      nijiniji_94: -1534090606
+      nijiniji_95: -958215925
+      nijiniji_96: 111739023
+      nijiniji_97: 1498638077
+      nijiniji_98: 372237989
+      nijiniji_99: 1329685507
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
